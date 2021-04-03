@@ -8,9 +8,10 @@ gallery:
   - https://www.fillmurray.com/600/600
 file: /img/dummy.pdf
 ---
-
 It is easy to write **markdown**-*enabled* content like this placeholder text, with support for images.
 
 If you are in local development-mode (`npm run dev`) you can double-click here to edit this page quickly.
 
 Below are some Gallery photos that have been added to this Project.
+
+Download your file <a href="/img/dummy.pdf" download>here.</a>
