@@ -6,7 +6,7 @@ cover: https://www.fillmurray.com/g/400/200
 gallery:
   - https://www.fillmurray.com/g/800/400
   - https://www.fillmurray.com/600/600
-file: /img/dummy.pdf
+file: /img/fill_murray.jpg
 ---
 It is easy to write **markdown**-*enabled* content like this placeholder text, with support for images.
 
@@ -14,6 +14,6 @@ If you are in local development-mode (`npm run dev`) you can double-click here t
 
 Below are some Gallery photos that have been added to this Project.
 
-Download your file <a href="/img/dummy.pdf" download>here.</a>
+Download your file <a href="/img/fill_murray.jpg" download>here.</a>
 
 More text content here.
