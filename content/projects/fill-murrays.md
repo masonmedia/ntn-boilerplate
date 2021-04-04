@@ -16,6 +16,8 @@ Below are some Gallery photos that have been added to this Project.
 
 Download your file <a href="/img/dummy.pdf" download>here.</a>
 
+Try <a href="/static/img/dummy.pdf" download>this also</a>
+
 More text content here.
 
 <a href="/img/dummy.pdf">try this</a>
