@@ -14,6 +14,6 @@ If you are in local development-mode (`npm run dev`) you can double-click here t
 
 Below are some Gallery photos that have been added to this Project.
 
-Download your file <a href="/img/fill_murray.jpg" download>here.</a>
+Download your file <a href="/img/dummy.pdf">here.</a>
 
 More text content here.
