@@ -76,4 +76,11 @@ collections:
           summary: '{{fields.image}}',
           field: { label: 'Image', name: 'image', widget: 'image' },
         }
-      - { label: 'File', name: 'file', widget: 'file' }
+      # - { label: 'File', name: 'file', widget: 'file' }
+      - label: "Manual PDF"
+        name: "manual_pdf"
+        widget: "file"
+        default: "/uploads/dummy.pdf"
+        media_library:
+          config:
+            multiple: true
