@@ -78,4 +78,3 @@ collections:
           summary: '{{fields.image}}',
           field: { label: 'Image', name: 'image', widget: 'image' },
         }
-      - { label: 'File', name: 'file', widget: 'file' }
