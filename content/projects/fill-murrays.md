@@ -20,4 +20,4 @@ Try <a href="static/img/dummy.pdf" download>this also</a>
 
 More text content here.
 
-<a href="img/dummy.pdf">try this</a>
+[fuck me](/img/dummy.pdf)
