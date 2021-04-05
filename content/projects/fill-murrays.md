@@ -4,6 +4,7 @@ title: Fill Murrays Big time yes
 description: Yet another placeholding project, but with Bills
 cover: https://www.fillmurray.com/g/400/200
 file: /uploads/dummy.pdf
+manual_pdf: /images/uploads/dummy.pdf
 gallery:
   - /uploads/image.jpg
   - https://www.fillmurray.com/600/600
