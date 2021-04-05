@@ -17,6 +17,6 @@ Below are some Gallery photos that have been added to this Project.
 
 Download your file <a href="https://nuxt-tailwind-cms.netlify.app/images/uploads/dummy.pdf" download>here.</a>
 
-New download <a href="/uploads/dummy.pdf" download>here.</a>
+New download <a href="/uploads/dummy.pdf">here.</a>
 
-Image download <a href="/uploads/image.jpg" download>here.</a>
+Image download <a href="/uploads/image.jpg">here.</a>
