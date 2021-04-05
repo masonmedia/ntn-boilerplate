@@ -5,7 +5,7 @@ description: Yet another placeholding project, but with Bills
 cover: https://www.fillmurray.com/g/400/200
 file: /uploads/image.jpg
 gallery:
-  - https://www.fillmurray.com/g/800/400
+  - /uploads/image.jpg
   - https://www.fillmurray.com/600/600
   - /img/fill_murray.jpg
 ---
