@@ -7,9 +7,9 @@ backend:
   branch: master
   squash_merges: true
 
-media_folder:  assets/uploads
+media_folder:  "static/images/uploads"
 # media_folder: static/img
-public_folder: /img
+public_folder: "/images/uploads"
 
 # Docs: https://www.netlifycms.org/docs/configuration-options/#collections
 collections:
