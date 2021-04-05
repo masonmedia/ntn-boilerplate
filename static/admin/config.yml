@@ -7,9 +7,12 @@ backend:
   branch: master
   squash_merges: true
 
-media_folder:  "static/images/uploads"
-# media_folder: static/img
-public_folder: "/images/uploads"
+# media_folder:  "static/images/uploads"
+# public_folder: "/images/uploads"
+
+media_folder:  "static/uploads"
+public_folder: "/uploads"
+
 
 # Docs: https://www.netlifycms.org/docs/configuration-options/#collections
 collections:
@@ -70,6 +73,14 @@ collections:
       - { label: 'Cover Image', name: 'cover', widget: 'image', required: false, allow_multiple: false }
       - { label: 'Content', name: 'body', widget: 'markdown', required: false }
       - { label: 'File', name: 'file', widget: 'file' }
+      # https://www.netlifycms.org/docs/widgets/#file
+      # - label: "Manual PDF"
+      #   name: "manual_pdf"
+      #   widget: "file"
+      #   default: "/uploads/general-manual.pdf"
+      #   media_library:
+      #     config:
+      #       multiple: true
       - {
           label: 'Gallery',
           name: 'gallery',
