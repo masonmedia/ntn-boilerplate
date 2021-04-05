@@ -5,7 +5,7 @@ description: Yet another placeholding project, but with Bills
 cover: https://www.fillmurray.com/g/400/200
 file: /uploads/image.jpg
 gallery:
-  - https://www.fillmurray.com/g/800/400
+  - /uploads/image.jpg
   - https://www.fillmurray.com/600/600
   - /img/fill_murray.jpg
 ---
@@ -17,6 +17,6 @@ Below are some Gallery photos that have been added to this Project.
 
 Download your file <a href="https://nuxt-tailwind-cms.netlify.app/images/uploads/dummy.pdf" download>here.</a>
 
-New download <a href="/uploads/dummy.pdf">here.</a>
+New download <a href="/uploads/dummy.pdf" download>here.</a>
 
-Image download <a href="/uploads/image.jpg">here.</a>
+Image download <a href="/uploads/image.jpg" download>here.</a>
