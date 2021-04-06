@@ -4,7 +4,7 @@ title: Fill Murrays Big time yes
 description: Yet another placeholding project, but with Bills
 cover: https://www.fillmurray.com/g/400/200
 file: /assets/uploads/dummy.pdf
-manual_pdf: /images/uploads/dummy.pdf
+manual_pdf: /assets/uploads/dummy.pdf
 gallery:
   - /uploads/image.jpg
   - https://www.fillmurray.com/600/600
@@ -18,6 +18,6 @@ Below are some Gallery photos that have been added to this Project.
 
 Download your file <a href="https://nuxt-tailwind-cms.netlify.app/images/uploads/dummy.pdf" download="mofo">here.</a>
 
-New download <a href="/images/uploads/dummy.pdf" download="bigtimeohya">here.</a>
+New download <a href="/assets/uploads/dummy.pdf" download="bigtimeohya">here.</a>
 
 Image download <a href="/images/uploads/dummy.pdf">here.</a>
