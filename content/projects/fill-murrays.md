@@ -3,7 +3,7 @@ category: animals
 title: Fill Murrays Big time yes
 description: Yet another placeholding project, but with Bills
 cover: https://www.fillmurray.com/g/400/200
-file: /uploads/dummy.pdf
+file: /~/assets/uploads/dummy.pdf
 manual_pdf: /images/uploads/dummy.pdf
 gallery:
   - /uploads/image.jpg
@@ -18,6 +18,6 @@ Below are some Gallery photos that have been added to this Project.
 
 Download your file <a href="https://nuxt-tailwind-cms.netlify.app/images/uploads/dummy.pdf" download>here.</a>
 
-New download <a href="/images/uploads/dummy.pdf" download>here.</a>
+New download <a href="/~/assets/uploads/dummy.pdf" download>here.</a>
 
 Image download <a href="/images/uploads/dummy.pdf">here.</a>
