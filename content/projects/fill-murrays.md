@@ -20,4 +20,4 @@ Download your file <a href="https://nuxt-tailwind-cms.netlify.app/images/uploads
 
 New download <a href="/uploads/dummy.pdf" download="bigtimeohya" target="_blank">here.</a>
 
-Image download <a href="/images/uploads/dummy.pdf" download="comeoooonnnnn">here.</a>
+Image download <a href="/assets/uploads/dummy.pdf" download="comeoooonnnnn" target="_blank">here.</a>
