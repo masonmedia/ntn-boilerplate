@@ -16,8 +16,8 @@ If you are in local development-mode (`npm run dev`) you can double-click here t
 
 Below are some Gallery photos that have been added to this Project.
 
-Download your file <a href="https://nuxt-tailwind-cms.netlify.app/images/uploads/dummy.pdf" download="mofo*"*>here.</a>
+Download your file <a href="https://nuxt-tailwind-cms.netlify.app/images/uploads/dummy.pdf" download="mofo">here.</a>
 
-New download <a href="/assets/uploads/dummy.pdf" download="bigtimeohya*"*>here.</a>
+New download <a href="/images/uploads/dummy.pdf" download="bigtimeohya">here.</a>
 
 Image download <a href="/images/uploads/dummy.pdf">here.</a>
